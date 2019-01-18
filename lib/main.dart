@@ -60,7 +60,7 @@ class _MyHomePageState extends State<MyHomePage>{
 
     return Scaffold(
         appBar: AppBar(
-          title: Text('Ömse'),
+          title: Text('Drawer test'),
 //          backgroundColor: Colors.yellow[800],
           centerTitle: true,
           elevation: 10,
